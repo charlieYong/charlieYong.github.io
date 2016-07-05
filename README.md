@@ -1,2 +1,0 @@
-# charlieYong.github.io
-blog
